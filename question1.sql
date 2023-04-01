@@ -7,7 +7,3 @@ join scores s
 using(course_id)
 where score >= 10
 group by course_name
-
-
-
-
